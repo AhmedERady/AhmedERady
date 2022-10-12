@@ -1,5 +1,5 @@
 - Hi, I’m Ahmed Essam Rady <@AhmedERady>
-- I’m interested in Digital Circuit Design flow
+- I’m interested in Hardware Engineering flow
 - I’m currently learning Emotional Intelligence in the workplace 
 - I’m looking to collaborate on digital design projects that builds upon researched methods that aim to expand our fundamental routines
 
